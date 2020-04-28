@@ -1,7 +1,9 @@
 # work in progress.. 
 
 # Computer-Vision-for-Historical-Collections-Working-Group
-Discusison/working group for using computer vision methods with historical collections 
+Discussion/working group for using computer vision methods with historical collections. Would you like to join us? Sign up [here to receive updates about our monthly meetings](https://docs.google.com/spreadsheets/d/1WC--bagRIE9A7OjlMWsoOtTy7089imYNNXejwXrANSY/edit#gid=0).
+
+
 
 ## Projects 
 - https://hlamap.org.uk/
