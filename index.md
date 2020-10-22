@@ -1,5 +1,5 @@
 ## About
-#### Organizers: Katherine McDonough, Daniel van Strien, Kasra Hosseini
+#### Organizers: Katherine McDonough, Daniel van Strien, Kasra Hosseini, Daniel Wilson
 
 This group unites international researchers and heritage professionals who have an interest in using digitised image collections (maps, photographs, newspapers, books) in computer vision tasks. Applying CV to historical datasets raises issues of provenance and bias as well as processing challenges distinct from the recent or born digital images used in most computer vision work. We offer researchers at the Turing and beyond an opportunity to establish connections and build this new interdisciplinary field together. We focus on shared practices in data science around computer vision, providing a much needed center of gravity for a growing, otherwise disparate community.
 
