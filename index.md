@@ -19,7 +19,19 @@ We introduce humanities scholars, data scientists who have never worked with his
 -	Ben Lee (University of Washington) and the Library of Congress Newspaper Navigator
 -	Giles Bergel (Oxford), Seebibyte and Computer Vision in Book History
 
-## Participants
+## Participants (in alphbetical order)
+- Rossitza Atanassova, British Library
+- Kaspar Beelen, The Alan Turing Institute
+- Giles Bergel, University of Oxford/University College London
+- Yao-Yi Chiang, University of Southern California
+- Neil Fitzgerald, British Library
+- Chris Fleet, National Library of Scotland
+- Polly Hudson, Colouring Cities Open Data Research Programme, Turing/UCL
+- Fani Kostourou, UCL/Cardiff University/UCA
+- Benjamin Charles Germain Lee, The University of Washington
+- Katie McDonough, The Alan Turing Institute
+- Rachel Opitz, University of Glasgow
+
 
 ## Resources
 Suggest a new resource [here](https://github.com/ComputerVision4DigitalHeritage/sig/issues/3)!
