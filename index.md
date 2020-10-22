@@ -1,5 +1,5 @@
 ## About
-#### Organizers: Katherine McDonough, Daniel van Strien, Kasra Hosseini, Daniel Wilson
+#### Organizers: Katherine McDonough, Daniel van Strien, Kasra Hosseini, Daniel Wilson --> members of the [Living with Machines digital history project](https://livingwithmachines.ac.uk/)
 
 This group unites international researchers and heritage professionals who have an interest in using digitised image collections (maps, photographs, newspapers, books) in computer vision tasks. Applying CV to historical datasets raises issues of provenance and bias as well as processing challenges distinct from the recent or born digital images used in most computer vision work. We offer researchers at the Turing and beyond an opportunity to establish connections and build this new interdisciplinary field together. We focus on shared practices in data science around computer vision, providing a much needed center of gravity for a growing, otherwise disparate community.
 
@@ -11,7 +11,7 @@ If you would like to hear about upcoming events, please subscribe to our mailing
 If you are @ the Turing, you can subscribe to our Slack channel: [cvdh](https://alan-turing-institute.slack.com/archives/C01DU5VDZJL).
 
 ## Past Presentations
-We introduce humanities scholars, data scientists who have never worked with historical data, as well as researchers based in libraries, archives, and museums (the ‘GLAM’ sector) to a distinctively ‘Turing’ approach to computer vision methods. We do this by showcasing inter- and multidisciplinary projects led by Turing and external colleagues already invested in these methods. Recent presentations at our monthly meetings have featured work from
+We introduce humanities scholars, data scientists who have never worked with historical data, as well as researchers based in libraries, archives, and museums (the ‘GLAM’ sector) to a distinctively ‘Turing’ approach to computer vision methods. We do this by showcasing inter- and multidisciplinary projects led by Turing and external colleagues already invested in these methods. Recent presentations at our monthly meetings have featured work from:
 
 -	Thomas Smits (University of Utrecht) and Melvin Wevers (University of Amsterdam)
 -	Craig Knoblock, Johannes Uhl, Yao-Yi Chiang, and Stefan Leyk from the Linked Maps project (University of Southern California and University of Colorado at Boulder)
