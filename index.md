@@ -36,4 +36,24 @@ We introduce humanities scholars, data scientists who have never worked with his
 ## Resources
 Suggest a new resource [here](https://github.com/ComputerVision4DigitalHeritage/sig/issues/3)!
 
+### Projects 
+- https://hlamap.org.uk/
+- https://colouringlondon.org/
+- https://livingwithmachines.ac.uk/
+
+### Key Papers
+- https://doi.org/10.1111/j.1467-9671.2011.01254.x
+- https://doi.org/10.1080/17567505.2018.1517142
+
+### Teaching
+
+### Map collections 
+-  https://blogs.bl.uk/magnificentmaps/2020/04/a-list-of-where-to-find-free-to-access-digitised-british-library-maps.html
+
+### Conferences/Workshops
+
+
+
+
+
 
