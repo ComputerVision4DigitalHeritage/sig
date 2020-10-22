@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Computer Vision for Digital Heritage
+### Special Interest Group
+### The Alan Turing Institute
 
-You can use the [editor on GitHub](https://github.com/ComputerVision4DigitalHeritage/CV4DigitalHeritageSIG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### About
+This group unites international researchers and heritage professionals who have an interest in using digitised image collections (maps, photographs, newspapers, books) in computer vision tasks. Applying CV to historical datasets raises issues of provenance and bias as well as processing challenges distinct from the recent or born digital images used in most computer vision work. We offer researchers at the Turing and beyond an opportunity to establish connections and build this new interdisciplinary field together. We focus on shared practices in data science around computer vision, providing a much needed center of gravity for a growing, otherwise disparate community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computer vision refers to a range of tasks and methods aimed at allowing computers to work effectively with images. Common computer vision tasks include the classification of images into different categories and segmenting images into smaller parts based on image content, for example, detecting which parts of an image contains a person. Computer vision methods have been applied across a broad range of scientific and engineering domains including application in self-driving vehicles, processing medical images and to process digitised documents to recognise text content (optical-character-recognition). Increasingly there is a growing interest in applying and expanding these techniques to work with heritage materials including maps, books, newspapers and paintings, which have been digitised. This raises questions about how well computer vision methods developed for other types of images perform on digitised heritage content as well as questions about how we effectively and responsibility work with collections at scale through automated methods.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ComputerVision4DigitalHeritage/CV4DigitalHeritageSIG/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
