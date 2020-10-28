@@ -31,6 +31,12 @@ We introduce humanities scholars, data scientists who have never worked with his
 - Benjamin Charles Germain Lee, The University of Washington
 - Katie McDonough, The Alan Turing Institute
 - Rachel Opitz, University of Glasgow
+- Sarah Ames, National Library of Scotland
+- Gethin Rees, British Library
+- Melvin Wevers, University of Amsterdam
+- Stefan Leyk, University of Colorado Boulder
+- Piet Gerrits, Koç University
+- Marguerite le Riche, Registers of Scotland
 
 
 ## Resources
