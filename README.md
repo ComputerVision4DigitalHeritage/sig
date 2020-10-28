@@ -3,4 +3,4 @@ SIG  for using computer vision methods with historical collections. Organized by
 
 Participants and past events [here](https://computervision4digitalheritage.github.io/sig/).
 
-Want to join our monthly calls? [Add your info here.](https://docs.google.com/spreadsheets/d/1WC--bagRIE9A7OjlMWsoOtTy7089imYNNXejwXrANSY/edit#gid=0)
+Want to join our monthly calls? Please email Katie McDonough (above).
