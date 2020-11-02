@@ -29,7 +29,6 @@ We introduce humanities scholars, data scientists who have never worked with his
 - Polly Hudson, Colouring Cities Open Data Research Programme, Turing/UCL
 - Fani Kostourou, UCL/Cardiff University/UCA
 - Benjamin Charles Germain Lee, The University of Washington
-- Katie McDonough, The Alan Turing Institute
 - Rachel Opitz, University of Glasgow
 - Sarah Ames, National Library of Scotland
 - Gethin Rees, British Library
@@ -37,7 +36,7 @@ We introduce humanities scholars, data scientists who have never worked with his
 - Stefan Leyk, University of Colorado Boulder
 - Piet Gerrits, Koç University
 - Marguerite le Riche, Registers of Scotland
-
+- Dani Arribas-Bel, University of Liverpool/The Alan Turing Institute
 
 ## Resources
 Suggest a new resource [here](https://github.com/ComputerVision4DigitalHeritage/sig/issues/3)!
