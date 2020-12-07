@@ -6,7 +6,7 @@ This group unites international researchers and heritage professionals who have 
 Computer vision refers to a range of tasks and methods aimed at allowing computers to work effectively with images. Common computer vision tasks include the classification of images into different categories and segmenting images into smaller parts based on image content, for example, detecting which parts of an image contains a person. Computer vision methods have been applied across a broad range of scientific and engineering domains including application in self-driving vehicles, processing medical images and to process digitised documents to recognise text content (optical-character-recognition). Increasingly there is a growing interest in applying and expanding these techniques to work with heritage materials including maps, books, newspapers and paintings, which have been digitised. This raises questions about how well computer vision methods developed for other types of images perform on digitised heritage content as well as questions about how we effectively and responsibility work with collections at scale through automated methods.
 
 #### Get in touch
-If you would like to hear about upcoming events, please subscribe to our mailing list (Coming soon!).
+If you would like to hear about upcoming events, please [subscribe to our mailing list](https://forms.office.com/Pages/ResponsePage.aspx?id=p_SVQ1XklU-Knx-672OE-fR6PcyyBV1JuragBENwKPJUM0VEMlBYS1RTS05RNFg3N0tYUUFXRlZGMCQlQCN0PWcu).
 
 If you are @ the Turing, you can subscribe to our Slack channel: [cvdh](https://alan-turing-institute.slack.com/archives/C01DU5VDZJL).
 
